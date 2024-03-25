@@ -1,2 +1,1 @@
 # effective-happiness
-effective-happiness
